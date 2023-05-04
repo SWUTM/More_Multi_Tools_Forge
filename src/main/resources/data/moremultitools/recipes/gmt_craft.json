@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:golden_sword"
+    },
+    "1": {
+      "item": "minecraft:golden_shovel"
+    },
+    "2": {
+      "item": "minecraft:golden_pickaxe"
+    },
+    "3": {
+      "item": "minecraft:golden_axe"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:golden_hoe"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "moremultitools:gold_multi_tools",
+    "count": 1
+  }
+}

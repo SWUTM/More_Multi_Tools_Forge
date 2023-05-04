@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "moremultitools:items/gold_multi_tools"
+  }
+}

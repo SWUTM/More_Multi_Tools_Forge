@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "moremultitools:items/netherite_multi_tools"
+  }
+}
